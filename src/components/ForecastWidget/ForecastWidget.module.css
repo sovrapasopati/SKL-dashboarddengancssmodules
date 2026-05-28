@@ -1,0 +1,45 @@
+.container {
+  background: #1e1e2f;
+  border-radius: 16px;
+  padding: 24px;
+  margin-top: 20px;
+}
+
+.title {
+  color: #fff;
+  font-size: 1.1rem;
+  margin: 0 0 16px;
+  opacity: 0.8;
+}
+
+.list {
+  display: flex;
+  gap: 12px;
+}
+
+.card {
+  flex: 1;
+  background: #2a2a3e;
+  border-radius: 12px;
+  padding: 16px;
+  text-align: center;
+}
+
+.day {
+  color: #aaa;
+  font-size: 0.9rem;
+  margin: 0 0 8px;
+}
+
+.temp {
+  color: #fff;
+  font-size: 1.5rem;
+  font-weight: 700;
+  margin: 0 0 6px;
+}
+
+.cond {
+  color: #888;
+  font-size: 0.85rem;
+  margin: 0;
+}
